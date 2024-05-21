@@ -10,9 +10,6 @@ Each item has a letter on it. The player must collect all letters to win by clic
 <img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%202.png?raw=true" width="500" height=auto />
 </p>
 
-<h2>Internal Plugin</h2>
-<a href="https://github.com/MariaChemerys/Sandbox_App_Plugin-Picture_Encoder">Sandbox App Plugin - Picture Encoder</a> is an internal plugin for the Sandbox Clone. Since the pictures in this app consisted of colored squares, it was necessary to know the coordinates of each color to construct them. Thus, the purpose of this plugin was to identify the coordinates of squares of each color, extract them and arrange in a systematic way (create a new .txt file that contained a string where this information was encoded). After the optimization of Sandbox Clone's code, this plugin became unnecessary and it is not used for this app's development anymore.
-
 <h2>Technologies Used</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
